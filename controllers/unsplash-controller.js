@@ -35,4 +35,4 @@ const filterPhotos = async(req, res, next) => {
 exports.allPhotos = allPhotos;
 exports.filterPhotos = filterPhotos;
 // -----------------------------------
-// :
+//  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
